@@ -4,4 +4,5 @@ int main()
 {
 printf("hlo");
 int a=20;
+int b=15;
 }
