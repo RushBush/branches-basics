@@ -3,4 +3,5 @@
 int main()
 {
 printf("hlo");
+int a=20;
 }
