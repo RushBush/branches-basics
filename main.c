@@ -5,4 +5,5 @@ int main()
 printf("hlo");
 int a=20;
 printf("a=%d",a);
+int c=2;
 }
